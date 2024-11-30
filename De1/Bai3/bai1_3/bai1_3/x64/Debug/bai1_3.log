@@ -1,0 +1,7 @@
+﻿  CaoDang.cpp
+  DaiHoc.cpp
+  SinhVien.cpp
+C:\Users\DELL\source\repos\bai1_3\bai1_3\SinhVien.cpp(32,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  bai1_3.cpp
+  Generating Code...
+  bai1_3.vcxproj -> C:\Users\DELL\source\repos\bai1_3\bai1_3\x64\Debug\bai1_3.exe
